@@ -1,0 +1,11 @@
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/obj/Debug/netcoreapp2.0/Program.csprojAssemblyReference.cache
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/obj/Debug/netcoreapp2.0/Program.csproj.CoreCompileInputs.cache
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/obj/Debug/netcoreapp2.0/Program.AssemblyInfoInputs.cache
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/obj/Debug/netcoreapp2.0/Program.AssemblyInfo.cs
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/bin/Debug/netcoreapp2.0/Program.deps.json
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/bin/Debug/netcoreapp2.0/Program.runtimeconfig.json
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/bin/Debug/netcoreapp2.0/Program.runtimeconfig.dev.json
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/bin/Debug/netcoreapp2.0/Program.dll
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/bin/Debug/netcoreapp2.0/Program.pdb
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/obj/Debug/netcoreapp2.0/Program.dll
+/Users/alexcaskey/Documents/C# Projects/ProgramSolution/Program/obj/Debug/netcoreapp2.0/Program.pdb
